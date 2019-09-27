@@ -197,4 +197,6 @@ fabric.properties
 
 running.log
 *.zip
-data/*
+data/
+release/
+
